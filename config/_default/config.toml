@@ -1,4 +1,4 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "https://georgibakken.github.io/labs-handbook"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
