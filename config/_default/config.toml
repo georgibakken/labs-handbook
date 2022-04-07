@@ -1,4 +1,4 @@
-baseurl = "https://georgibakken.github.io/labs-handbook"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
