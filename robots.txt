@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://georgibakken.github.io/labs-handbook/sitemap.xml
