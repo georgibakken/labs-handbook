@@ -27,8 +27,6 @@ Step-by-step instructions on how to start a new Doks project. [Tutorial →](htt
 
 {{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
-
 ## Go further
 
 Recipes, Reference Guides, Extensions, and Showcase.
@@ -53,6 +51,3 @@ See what others have build with Doks. [Showcase →](https://getdoks.org/showcas
 
 Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
 
-## Help
-
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
