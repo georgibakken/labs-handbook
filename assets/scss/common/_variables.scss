@@ -24,7 +24,10 @@ $blue-300: #8ed6fb;
 $pink-100: #fcfaff;
 $pink-500: #d32e9d;
 
-$primary: $purple;
+$pink: #ffb4c8;
+$blue: #00223d;
+
+$primary: $pink;
 
 $color-btn-bg: $pink-500;
 $color-btn-border: darken($pink-500, 5%);
@@ -64,7 +67,7 @@ $navbar-light-toggler-icon-bg: none;
 // Settings for the `<body>` element.
 
 $body-bg:                   $white;
-$body-color:                $black;
+$body-color:                $blue;
 
 // Links
 //
@@ -139,7 +142,7 @@ $navbar-padding-x:                  null;
 
 $navbar-nav-link-padding-x:         0.5rem;
 
-$navbar-light-color:                $black;
+$navbar-light-color:                $blue;
 $navbar-light-hover-color:          $primary;
 $navbar-light-active-color:         $primary;
 
@@ -164,7 +167,7 @@ $alert-color-scale:                 0;
 
 // docsearch
 $dropdown-config: (
-  main-color: $purple,
+  main-color: $pink,
   layout-type: normal,
   layout-width: normal,
   layout-alignment: align,
@@ -178,11 +181,11 @@ $dropdown-config: (
   include-desc: yes,
   background-category-header: $white,
   font-size: normal,
-  header-color: $black,
-  title-color: $black,
-  subtitle-color: $black,
-  text-color: $black,
-  highlight-color: $purple,
+  header-color: $blue,
+  title-color: $blue,
+  subtitle-color: $blue,
+  text-color: $blue,
+  highlight-color: $pink,
   highlight-opacity: 0.1,
   highlight-type: underline
 );
