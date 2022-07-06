@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+lead: "Read about our culture, how we like to work, terminology we use and much more in this handbook"
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -15,7 +15,7 @@ toc: true
 
 ## Get started
 
-There are two main ways to get started with Doks:
+Check out the menu to the left or use the search.
 
 ### Tutorial
 

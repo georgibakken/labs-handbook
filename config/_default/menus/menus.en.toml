@@ -10,6 +10,12 @@
   identifier = "terminology"
   url = "/docs/terminology/"
 
+  [[docs]]
+  name = "Communication"
+  weight = 20
+  identifier = "communication"
+  url = "/docs/communication/"
+
 # [[docs]]
 #   name = "Lorem"
 #   weight = 70
